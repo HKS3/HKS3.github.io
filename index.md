@@ -1,10 +1,15 @@
 # HKS3
 
-## Mark Hofstetter
+"Koha":https://koha-community.org/Support in Austria and beyond!
 
-## Thomas Klausner
 
-## David Schmidt
+## Team
+
+### Mark Hofstetter
+
+### Thomas Klausner
+
+### David Schmidt
 
 ## Impressum
 
