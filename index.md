@@ -1,7 +1,6 @@
 # HKS3
 
-"Koha":https://koha-community.org/Support in Austria and beyond!
-
+[Koha](https://koha-community.org/) Support in Austria and beyond!
 
 ## Team
 
