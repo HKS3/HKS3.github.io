@@ -2,7 +2,7 @@
 
 [Koha](https://koha-community.org/) Support in Austria and beyond!
 
-[Referenzen](referenzen.html)
+[Referenzen]
 
 ## Team
 
