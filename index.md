@@ -16,4 +16,21 @@
 
 ### David Schmidt
 
-[Impressum](impressum.html)
+## Referenzen
+
+### [Steirische Landesbibliothek](https://www.landesbibliothek.steiermark.at/) (in Arbeit)
+
+* Migration von Dabis
+* Anreicherung Normdaten
+* Plugins
+* Onleihe
+
+### [Bibliothek des Naturhistorischen Museums Wien](https://www.nhm-wien.ac.at/museum/bibliotheken)
+
+* Plugins
+
+### [Camera Austria](https://camera-austria.at/bibliothek/) (in Arbeit)
+
+* Migration aus selbstgebauter Datenbank
+* Anreicherung Bücher und Normdaten
+
