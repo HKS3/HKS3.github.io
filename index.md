@@ -29,6 +29,8 @@
 
 ### [Bibliothek des Naturhistorischen Museums Wien](https://www.nhm-wien.ac.at/museum/bibliotheken)
 
+* Support
+
 ### [Camera Austria](https://camera-austria.at/bibliothek/) (in Arbeit)
 
 * Migration aus selbstgebauter Datenbank
@@ -36,7 +38,7 @@
 
 ## Plugins
 
-https://github.com/HKS3/HKS3Onleihe
+* [https://github.com/HKS3/HKS3Onleihe](https://github.com/HKS3/HKS3Onleihe)
 
 ## Kontakt/Impressum
 
