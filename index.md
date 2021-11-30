@@ -7,7 +7,7 @@
 ### Mark Hofstetter
 
 * Studium der (Bio)Chemie, Entwickler (perl, python, php) mit starker Datenbankschlagseite (Oracle, mysql, postgres), seit mehreren Jahren stark in Koha involviert mit Adaptionen für Bibliotheken und kleineren Patches für Koha
-* mark@koha-support.eu
+* mark at koha-support.eu
 
 ### Thomas Klausner
 
@@ -37,3 +37,11 @@
 
 https://github.com/HKS3/HKS3Onleihe
 
+## Kontakt/Impressum
+
+```
+Name: HKS3 OG
+FN: 537925t 
+Adresse:  Zwischen den Weingärten 3 - 2452 Mannersdorf          
+email:  office at koha-support.eu
+```
