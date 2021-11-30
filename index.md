@@ -2,11 +2,12 @@
 
 [Koha](https://koha-community.org/) Support in Austria and beyond!
 
-[Referenzen](referenzen.md)
-
 ## Team
 
 ### Mark Hofstetter
+
+* Studium der (Bio)Chemie, Entwickler (perl, python, php) mit starker Datenbankschlagseite (Oracle, mysql, postgres), seit mehreren Jahren stark in Koha involviert mit Adaptionen für Bibliotheken und kleineren Patches für Koha
+* mark@koha-support.eu
 
 ### Thomas Klausner
 
@@ -27,10 +28,12 @@
 
 ### [Bibliothek des Naturhistorischen Museums Wien](https://www.nhm-wien.ac.at/museum/bibliotheken)
 
-* Plugins
-
 ### [Camera Austria](https://camera-austria.at/bibliothek/) (in Arbeit)
 
 * Migration aus selbstgebauter Datenbank
 * Anreicherung Bücher und Normdaten
+
+## Plugins
+
+https://github.com/HKS3/HKS3Onleihe
 
