@@ -48,7 +48,7 @@
 
 ## Kontakt/Impressum
 
-* [links](index.md)
+* [links](links.md)
 
 ```
 Name: HKS3 OG
