@@ -46,9 +46,14 @@
 * [https://github.com/HKS3/HKS3Onleihe](https://github.com/HKS3/HKS3Onleihe)
 * [https://github.com/HKS3/HKS3Link2Wikipedia](https://github.com/HKS3/HKS3Link2Wikipedia)
 
+## Weiterführende links
+
+* [links](/links.md)
+
 ## Kontakt/Impressum
 
-* [links](links.md)
+
+
 
 ```
 Name: HKS3 OG
