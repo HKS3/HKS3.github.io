@@ -25,12 +25,15 @@
 
 ## Referenzen
 
-### [Steirische Landesbibliothek](https://www.landesbibliothek.steiermark.at/) (in Arbeit)
+### [Steiermärkische Landesbibliothek](https://katalog.landesbibliothek.steiermark.at/)
+
+seit 7.Jänner 2022 in Betrieb
 
 * Migration von Dabis
 * Anreicherung Normdaten
 * Plugins
 * Onleihe
+
 
 ### [Bibliothek des Naturhistorischen Museums Wien](https://www.nhm-wien.ac.at/museum/bibliotheken)
 
