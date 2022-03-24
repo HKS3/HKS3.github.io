@@ -18,7 +18,7 @@
 
 ### David Schmidt
 * Studium Technische Informatik an der TU Wien
-* 15 Jahre Perl Erfahrung, Linux (Debian), Frontend Entwicklung Javacsript/CSS/HTML, docker, git
+* 15 Jahre Perl Erfahrung, Linux (Debian), Frontend Entwicklung Javascript/CSS/HTML, docker, git
 * MARCXML Migration/Transformation mit Catmandu/Koha
 * david at koha-support.eu
 
