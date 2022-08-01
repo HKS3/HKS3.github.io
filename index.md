@@ -39,10 +39,18 @@ seit 7.Jänner 2022 in Betrieb
 
 * Support
 
-### [Camera Austria](https://camera-austria.at/bibliothek/) (in Arbeit)
+
+### [Camera Austria](https://camera-austria.at/bibliothek/)
 
 * Migration aus selbstgebauter Datenbank
 * Anreicherung Bücher und Normdaten
+* Hosting
+
+
+### [American Academy](https://www.americanacademy.de/) ([Katalog](http://catalog.americanacademy.de/))
+
+* Support/Hosting
+
 
 ## Plugins
 
