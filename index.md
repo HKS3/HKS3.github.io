@@ -47,9 +47,10 @@ seit 7.Jänner 2022 in Betrieb
 * Hosting
 
 
-### [American Academy](https://www.americanacademy.de/) ([Katalog](http://catalog.americanacademy.de/))
+### [American Academy](https://catalog.americanacademy.de/)
 
-* Support/Hosting
+* Support
+* Hosting
 
 
 ## Plugins
