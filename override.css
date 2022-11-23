@@ -19,3 +19,7 @@ footer {
 #hosting td:first-child {
   text-align: left;
 }
+.super {
+  vertical-align: super;
+  font-size: 33%;
+}

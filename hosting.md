@@ -3,7 +3,7 @@
 <table id="hosting">
   <tr>
     <th></th>
-    <th>S</th>
+    <th>S<span class="super">&#42;</span></th>
     <th>M</th>
     <th>X</th>
     <th>XL</th>
@@ -44,3 +44,5 @@
     <td><a href="mailto:office@koha-support.eu">contact us</a></td>
   </tr>
 </table>
+
+<span class="super">*)</span> nur F&uuml;r NGOs und non-profit Vereine.
