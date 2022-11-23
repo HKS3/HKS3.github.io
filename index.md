@@ -22,10 +22,68 @@
 * MARCXML Migration/Transformation mit Catmandu/Koha
 * david at koha-support.eu
 
+## Hosting/Preise
+
+<table id="hosting">
+  <tr>
+    <th></th>
+    <th>S<span class="super">&#42;</span></th>
+    <th>M</th>
+    <th>L</th>
+    <th>XL</th>
+  </tr>
+  <tr>
+    <td>B&uuml;cher</td>
+    <td>&lt;10k</td>
+    <td>10-20k</td>
+    <td>20-100k</td>
+    <td>&gt;100k</td>
+  </tr>
+  <tr>
+    <td>Monitoring</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>Backup</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>Koha Upgrades</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>5h Gratissupport</td>
+    <td></td>
+    <td></td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>Monatsgeb&uuml;hr</td>
+    <td>50€</td>
+    <td>100€</td>
+    <td>300€</td>
+    <td><a href="mailto:office@koha-support.eu">email</a></td>
+  </tr>
+</table>
+
+<span class="super">*)</span> nur F&uuml;r NGOs und non-profit Vereine.
+
+Migration, Datenkonvertierung, ... nach Vereinbarung.  
+Stundensatz für weitere Arbeiten 120€
 
 ## Referenzen
 
-### [Steiermärkische Landesbibliothek](https://katalog.landesbibliothek.steiermark.at/)
+### [Steiermärkische Landesbibliothek](https://katalog.landesbibliothek.steiermark.at)
 
 seit 7.Jänner 2022 in Betrieb
 
@@ -39,19 +97,22 @@ seit 7.Jänner 2022 in Betrieb
 
 * Support
 
-
-### [Camera Austria](https://camera-austria.at/bibliothek/)
+### [Camera Austria](https://camera-austria.at/bibliothek)
 
 * Migration aus selbstgebauter Datenbank
 * Anreicherung Bücher und Normdaten
 * Hosting
 
 
-### [American Academy](https://catalog.americanacademy.de/)
+### [American Academy](https://catalog.americanacademy.de)
 
 * Support
 * Hosting
 
+### [Wien Museum](https://www.wienmuseum.at)
+
+* Support
+* Hosting
 
 ## Plugins
 
@@ -64,12 +125,9 @@ seit 7.Jänner 2022 in Betrieb
 
 ## Kontakt/Impressum
 
-
-
-
 ```
 Name: HKS3 OG
-FN: 537925t 
-Adresse:  Zwischen den Weingärten 3 - 2452 Mannersdorf          
-email:  office at koha-support.eu
+FN: 537925t
+Adresse: Zwischen den Weingärten 3 - 2452 Mannersdorf
+email: office at koha-support.eu
 ```
