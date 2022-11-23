@@ -13,6 +13,6 @@ footer {
   font-size: smaller;
 }
 
-#hosting td {
+#hosting td, #hosting th {
   text-align: center;
 }
