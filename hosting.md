@@ -5,7 +5,7 @@
     <th></th>
     <th>S<span class="super">&#42;</span></th>
     <th>M</th>
-    <th>X</th>
+    <th>L</th>
     <th>XL</th>
   </tr>
   <tr>
@@ -30,6 +30,13 @@
     <td>&#x2713;</td>
   </tr>
   <tr>
+    <td>5h Gratissupport</td>
+    <td></td>
+    <td></td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
     <td>B&uuml;cher</td>
     <td>&lt;10k</td>
     <td>10-20k</td>
@@ -46,3 +53,6 @@
 </table>
 
 <span class="super">*)</span> nur F&uuml;r NGOs und non-profit Vereine.
+
+Migration, Datenkonvertierungen, ... nach Vereinbarung.
+Stundensatz für weitere Arbeiten 120€
