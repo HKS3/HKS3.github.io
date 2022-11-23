@@ -5,12 +5,10 @@
 ## Team
 
 ### Mark Hofstetter
-
 * Studium der (Bio)Chemie, Entwickler (perl, python, php) mit starker Datenbankschlagseite (Oracle, mysql, postgres), seit mehreren Jahren stark in Koha involviert mit Adaptionen für Bibliotheken und kleineren Patches für Koha
 * mark at koha-support.eu
 
 ### Thomas Klausner
-
 * Tech: Backend-Entwicklung (am liebsten Perl), Datenbanken (Postgres, SQlite, meinetwegen auch MySQL), Dev-Ops (docker, git, ..), Frontend (wenn es sein muss, dann vue.js)
 * Nicht-Tech: Fahrrad, Vinyl, Kochen
 * [domm.plix.at](https://domm.plix.at)
@@ -121,7 +119,7 @@ seit 7.Jänner 2022 in Betrieb
 
 ## Weiterführende links
 
-* [links](/links.md)
+* [Landesbibliothekenverbund Österreich/Südtirol](https://lbb.at)
 
 ## Kontakt/Impressum
 
