@@ -54,5 +54,5 @@
 
 <span class="super">*)</span> nur F&uuml;r NGOs und non-profit Vereine.
 
-Migration, Datenkonvertierungen, ... nach Vereinbarung.  
+Migration, Datenkonvertierung, ... nach Vereinbarung.  
 Stundensatz für weitere Arbeiten 120€
