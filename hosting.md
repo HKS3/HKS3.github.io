@@ -41,7 +41,7 @@
     <td>50€</td>
     <td>100€</td>
     <td>300€</td>
-    <td><a href="mailto:office@koha-support.eu">contact us</a></td>
+    <td><a href="mailto:office@koha-support.eu">email</a></td>
   </tr>
 </table>
 
