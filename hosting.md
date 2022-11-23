@@ -9,13 +9,6 @@
     <th>XL</th>
   </tr>
   <tr>
-    <td>B&uuml;cher</td>
-    <td>&lt;10k</td>
-    <td>10-20k</td>
-    <td>20-100k</td>
-    <td>&gt;100k</td>
-  </tr>
-  <tr>
     <td>Monitoring</td>
     <td>&#x2713;</td>
     <td>&#x2713;</td>
@@ -35,6 +28,13 @@
     <td>&#x2713;</td>
     <td>&#x2713;</td>
     <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>B&uuml;cher</td>
+    <td>&lt;10k</td>
+    <td>10-20k</td>
+    <td>20-100k</td>
+    <td>&gt;100k</td>
   </tr>
   <tr>
     <td>Monatsgeb&uuml;hr</td>
