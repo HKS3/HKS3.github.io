@@ -16,3 +16,6 @@ footer {
 #hosting td, #hosting th {
   text-align: center;
 }
+#hosting td:first-child {
+  text-align: left;
+}
