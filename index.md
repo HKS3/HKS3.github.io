@@ -81,7 +81,7 @@ Stundensatz für weitere Arbeiten 120€
 
 ## Referenzen
 
-### [Steiermärkische Landesbibliothek](https://katalog.landesbibliothek.steiermark.at)
+### [Steiermärkische Landesbibliothek](https://landesbibliothek.steiermark.at)
 
 seit 7.Jänner 2022 in Betrieb
 
@@ -89,6 +89,7 @@ seit 7.Jänner 2022 in Betrieb
 * Anreicherung Normdaten
 * Plugins
 * Onleihe
+* [OPAC](https://katalog.landesbibliothek.steiermark.at)
 
 
 ### [Bibliothek des Naturhistorischen Museums Wien](https://www.nhm-wien.ac.at/museum/bibliotheken)
@@ -100,17 +101,20 @@ seit 7.Jänner 2022 in Betrieb
 * Migration aus selbstgebauter Datenbank
 * Anreicherung Bücher und Normdaten
 * Hosting
+* [OPAC](https://bibliothek.camera-austria.at)
 
 
-### [American Academy](https://catalog.americanacademy.de)
+### [American Academy](https://www.americanacademy.de)
 
 * Support
 * Hosting
+* [OPAC](https://catalog.americanacademy.de)
 
 ### [Wien Museum](https://www.wienmuseum.at)
 
 * Support
 * Hosting
+* [OPAC](https://bibliothek.wienmuseum.at)
 
 ## Plugins
 
