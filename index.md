@@ -13,7 +13,7 @@
     <th>XL</th>
   </tr>
   <tr>
-    <td>B&uuml;cher</td>
+    <td>Anzahl Medien</td>
     <td>&lt;10k</td>
     <td>10-20k</td>
     <td>20-100k</td>
