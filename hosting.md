@@ -2,43 +2,45 @@
 
 <table id="hosting">
   <tr>
-    <th>Paket</th>
-    <th>B&uuml;cher</th>
-    <th>Monitoring</th>
-    <th>Backup</th>
-    <th>Koha Upgrades</th>
-    <th>Monatliche Kosten</th>
+    <th></th>
+    <th>S</th>
+    <th>M</th>
+    <th>X</th>
+    <th>XL</th>
   </tr>
   <tr>
-    <td>S</td>
+    <td>B&uuml;cher</td>
     <td>&lt;10k</td>
-    <td>&#x2713;</td>
-    <td>&#x2713;</td>
-    <td>&#x2713;</td>
-    <td>50€</td>
-  </tr>
-  <tr>
-    <td>M</td>
     <td>10-20k</td>
-    <td>&#x2713;</td>
-    <td>&#x2713;</td>
-    <td>&#x2713;</td>
-    <td>100€</td>
-  </tr>
-  <tr>
-    <td>L</td>
     <td>20-100k</td>
-    <td>&#x2713;</td>
-    <td>&#x2713;</td>
-    <td>&#x2713;</td>
-    <td>300€</td>
+    <td>&gt;100k</td>
   </tr>
   <tr>
-    <td>XL</td>
-    <td>&gt;100k</td>
+    <td>Monitoring</td>
     <td>&#x2713;</td>
     <td>&#x2713;</td>
     <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>Backup</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>Koha Upgrades</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+    <td>&#x2713;</td>
+  </tr>
+  <tr>
+    <td>Monatsgeb&uuml;hr</td>
+    <td>50€</td>
+    <td>100€</td>
+    <td>300€</td>
     <td><a href="mailto:office@koha-support.eu">contact us</a></td>
   </tr>
 </table>
