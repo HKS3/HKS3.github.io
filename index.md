@@ -13,7 +13,7 @@
     <th>XL</th>
   </tr>
   <tr>
-    <td>Anzahl Medien</td>
+    <td>Medienumfang</td>
     <td>&lt;10k</td>
     <td>10-20k</td>
     <td>20-100k</td>
@@ -41,7 +41,7 @@
     <td>&#x2713;</td>
   </tr>
   <tr>
-    <td>5h Gratissupport</td>
+    <td>5h Gratissupport (einmalig)</td>
     <td></td>
     <td></td>
     <td>&#x2713;</td>
